@@ -26,7 +26,7 @@
 
 <!-- =============== ABOUT ME =============== -->
 
-## `> whoami`
+
 
 <img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
@@ -53,7 +53,7 @@ I love combining creativity, design, and technology to build digital experiences
 
 <!-- =============== TECH STACK =============== -->
 
-## `> tech_stack --show-all`
+
 
 ### 💻 Programming Languages
 
@@ -89,7 +89,7 @@ I love combining creativity, design, and technology to build digital experiences
 
 <!-- =============== FEATURED PROJECTS =============== -->
 
-## `> ./featured_projects`
+
 
 <table>
 <tr>
@@ -163,7 +163,7 @@ Always exploring new ideas and technologies.
 
 <!-- =============== GITHUB STATISTICS =============== -->
 
-## `> git status --profile`
+
 
 <div align="center">
 
@@ -182,7 +182,7 @@ Always exploring new ideas and technologies.
 
 <!-- =============== CONNECT =============== -->
 
-## `> connect --with-thisara`
+
 
 <div align="center">
 
