@@ -171,8 +171,41 @@ Exploring new ideas across software engineering, AI, and user experience.
 <div align="center">
 
 <!-- Enable the GitHub Actions workflow below to generate this SVG. -->
-<img src="https://raw.githubusercontent.com/thisara852/thisara852/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
 
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: thisara852
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake SVG
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 </div>
 
 ---
