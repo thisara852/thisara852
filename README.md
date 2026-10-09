@@ -179,17 +179,6 @@ Always exploring new ideas and technologies.
 
 ---
 
-<!-- =============== CONTRIBUTION SNAKE =============== -->
-
-## `> contributions --visualize`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thisara852/thisara852/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
-
----
 
 <!-- =============== CONNECT =============== -->
 
