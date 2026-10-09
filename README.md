@@ -1,19 +1,24 @@
 
-<!-- =============== HERO SECTION =============== -->
+<!--
+  THISARA CHETHANI | GITHUB PROFILE
+  Premium Dark • Neon Cyan • Violet • Animated
+-->
+
+<!-- =============== ANIMATED HEADER =============== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09090F,50:172554,100:06B6D4&text=THISARA%20CHETHANI&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=UI%2FUX%20DESIGNER%20%7C%20DEVELOPER%20%7C%20ML%20ENTHUSIAST&descAlignY=58&descSize=14&animation=fadeIn&stroke=06B6D4&strokeWidth=1" width="100%" alt="Animated profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090F,50:172554,100:06B6D4&text=THISARA%20CHETHANI&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=UI%2FUX%20DESIGNER%20%7C%20SOFTWARE%20DEVELOPER%20%7C%20ML%20ENTHUSIAST&descAlignY=58&descSize=13&animation=fadeIn" width="100%" alt="Animated profile header"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;I+design+experiences+and+build+solutions.;Turning+ideas+into+real+applications.;Exploring+AI+%26+Machine+Learning.;Always+learning.+Always+building." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Hello%2C+World!+%F0%9F%91%8B;Designing+Experiences+That+Matter;Building+Solutions+Through+Code;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Reality" alt="Animated typing introduction"/>
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=thisara852&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/thisara852?style=for-the-badge&color=7C3AED&label=FOLLOWERS" alt="GitHub followers"/>
-<img src="https://img.shields.io/badge/Status-Always%20Learning-06B6D4?style=for-the-badge" alt="Always learning"/>
+<img src="https://img.shields.io/badge/Always-Learning-06B6D4?style=for-the-badge" alt="Always learning"/>
 
 </div>
 
@@ -23,20 +28,26 @@
 
 ## `> whoami`
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+<img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
-🎓 **Computing and Information Systems Undergraduate**  
-Sabaragamuwa University of Sri Lanka
+Hi! I'm **Thisara Chethani**, an undergraduate at **Sabaragamuwa University of Sri Lanka**, pursuing a **BSc (Hons) in Computing and Information Systems**.
 
-- 🎨 Passionate about UI/UX and creative design
-- 💻 Building responsive web and mobile applications
-- 🤖 Exploring Machine Learning and AI solutions
-- 🚀 Interested in solving real-world problems with technology
-- 🤝 Open to collaboration and new opportunities
+I love combining creativity, design, and technology to build digital experiences and software solutions that solve real-world problems.
+
+- 🎓 Computing and Information Systems undergraduate
+- 🎨 UI/UX design and user-centered experiences
+- 💻 Frontend and mobile application development
+- 🤖 Machine Learning and AI-powered applications
+- 🚀 Building innovative academic and personal projects
+- 🤝 Interested in collaboration and continuous learning
 
 <br clear="right"/>
 
-> *"Design with purpose. Code with passion. Build with impact."*
+<div align="center">
+
+> *"Great design inspires. Great code empowers. Innovation changes everything."*
+
+</div>
 
 ---
 
@@ -53,13 +64,13 @@ Sabaragamuwa University of Sri Lanka
 ### 🌐 Web & Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,reactnative" alt="Web and mobile development"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,reactnative" alt="Web and mobile technologies"/>
 </p>
 
-### 🧠 AI, Data & Databases
+### 🧠 Machine Learning, Data & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,mongodb,mysql,firebase" alt="AI, data and databases"/>
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,mongodb,mysql,firebase" alt="Machine learning and databases"/>
 </p>
 
 ### 🎨 UI/UX & Creative Tools
@@ -71,7 +82,7 @@ Sabaragamuwa University of Sri Lanka
 ### ⚙️ Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer tools"/>
 </p>
 
 ---
@@ -88,57 +99,61 @@ Sabaragamuwa University of Sri Lanka
 
 **Centralized Platform for IEEE Competitions**
 
-A mobile application concept bringing competitions, hackathons, workshops, and innovation challenges into one platform.
+A mobile application designed to bring IEEE competitions, hackathons, workshops, and innovation challenges into one accessible platform.
 
-**Tech Stack**
+**Key Technologies**
 - React Native & Expo
-- Firebase
+- Firebase Authentication & Firestore
 - Cloudinary
 - NLP-based content discovery
 
 <a href="https://github.com/thisara852?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Repositories-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+<img src="https://img.shields.io/badge/Explore%20Projects-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore projects"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Smart Tourism Management
+### 🤖 AI-Driven Smart Tourism
 
-**AI-Driven Personalized Travel**
+**Personalized Travel Experiences in Sri Lanka**
 
-An academic research concept exploring machine learning to personalize travel recommendations and improve tourism experiences in Sri Lanka.
+An academic research concept exploring machine learning to personalize travel recommendations and improve tourism experiences.
 
 **Focus Areas**
 - Machine Learning
 - Recommendation Systems
 - Data Analysis
+- Personalized Experiences
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🌱 Human–Elephant Conflict Early Warning
 
-An IoT-based community project concept exploring early detection, alerts, and non-harmful deterrence.
+An IoT-based community project concept exploring early detection, alerts, and non-harmful deterrence to support human–elephant coexistence.
 
 **Focus Areas**
 - IoT & Sensors
 - Embedded Systems
 - Early Warning Systems
+- Community Safety
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 More Coming Soon
+### ✨ More Projects Coming Soon
 
-Exploring new ideas across software engineering, AI, and user experience.
+Always exploring new ideas and technologies.
 
-**Mission**
-- Learn new technologies
-- Build useful applications
-- Create meaningful impact
+**Current Interests**
+- AI-powered applications
+- Creative UI/UX experiences
+- Full-stack development
+- Smart technology solutions
 
 </td>
 </tr>
@@ -146,7 +161,7 @@ Exploring new ideas across software engineering, AI, and user experience.
 
 ---
 
-<!-- =============== GITHUB STATS =============== -->
+<!-- =============== GITHUB STATISTICS =============== -->
 
 ## `> git status --profile`
 
@@ -156,7 +171,7 @@ Exploring new ideas across software engineering, AI, and user experience.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisara852&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Most used programming languages"/>
 
-<br/>
+<br/><br/>
 
 <img width="95%" src="https://streak-stats.demolab.com?user=thisara852&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
 
@@ -170,42 +185,8 @@ Exploring new ideas across software engineering, AI, and user experience.
 
 <div align="center">
 
-<!-- Enable the GitHub Actions workflow below to generate this SVG. -->
+<img src="https://raw.githubusercontent.com/thisara852/thisara852/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: thisara852
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish snake SVG
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 </div>
 
 ---
@@ -233,8 +214,8 @@ jobs:
 
 ### 💙 Thanks for visiting my profile!
 
-`Keep Learning` · `Keep Building` · `Keep Innovating`
+**Keep Learning · Keep Building · Keep Innovating**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:09090F&height=100&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:09090F&height=120&section=footer" width="100%" alt="Animated footer"/>
 
 </div>
